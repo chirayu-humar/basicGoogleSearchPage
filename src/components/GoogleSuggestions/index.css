@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  flex-grow: 1;
+  align-items: center;
+}
+.first {
+  width: 50%;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.image {
+  width: 50%;
+  height: 50%;
+}
+input {
+  appearance: none;
+  background-color: transparent;
+  border-color: transparent;
+}
+input :focus {
+  border-radius: 0;
+  border-color: transparent;
+  outline: none;
+}
+.search_img {
+  height: 20px;
+}
+#firstListElement {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.second {
+}

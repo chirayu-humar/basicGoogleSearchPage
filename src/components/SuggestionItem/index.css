@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.listElement {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.image {
+  width: 100%;
+}
+.img-container {
+  width: 20px;
+}
