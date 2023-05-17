@@ -20,7 +20,7 @@ input {
   background-color: transparent;
   border-color: transparent;
 }
-input :focus {
+input:focus {
   border-radius: 0;
   border-color: transparent;
   outline: none;
